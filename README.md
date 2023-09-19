@@ -2,7 +2,7 @@
 
 Transforms METS 1 to METS 2 beta schema.
 
-See other (METS schema resources)[https://github.com/mets/METS-schema]
+See other [METS schema resources](https://github.com/mets/METS-schema)
      
 ## Version 0.2 (2023-01-23)
      
